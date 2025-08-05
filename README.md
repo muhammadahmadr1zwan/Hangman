@@ -1,6 +1,4 @@
-Here's a simple yet informative README file for your Hangman game project in Java:
 
----
 
 # Hangman Game - Java Project
 
